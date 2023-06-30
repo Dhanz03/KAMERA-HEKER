@@ -1,1 +1,2 @@
-
+1. Added argument support. Run 'bash kamera_dhz.sh -h' to check
+2. Made the port customizable
